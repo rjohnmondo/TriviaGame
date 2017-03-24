@@ -1,0 +1,27 @@
+body {
+	background-image: url("../images/background1.png");
+
+}
+
+.panel {
+	background-color: #ebebeb;
+	
+}
+
+.jumbotron {
+	margin-top:5%;
+	color: black;
+	opacity: .90;
+	font-weight: 700;
+	text-align:center;
+}
+
+#display {
+
+	color: black;
+}
+
+button {
+	height:100px;
+	width:100px;
+}
